@@ -1,4 +1,4 @@
-# README: Power BI Projects - Mentorness Data Analyst Internship
+# README: Power BI Projects 
 
 ## 📌 Overview
 This repository contains Power BI projects.The projects focus on **data visualization, dashboard creation, and insightful analysis** using Power BI.
